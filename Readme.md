@@ -44,7 +44,7 @@ This project will have two parts:
     - Demonstrate critical thinking in analysis of outcomes (positive or negative it does not matter)
 
 * (10 points) Organization Clarity and PowerPoint Presentation
-    - Explain the analysis i R or Python
+    - Explain the analysis in R or Python
     - Neat and clear organization 
     - Consistent with this outline
     - Clarity of presentation and conclusions
@@ -60,5 +60,5 @@ The purpose of project presentation is to evaluate the effectiveness of the fina
 
 * All group members demonstrate professionalism and maintained eye contact with the audience (did not turn their backs on the audience or look down at the floor). Also all spoke loudly and confidently enough for everyone in the room to hear.
 * The presentation describe each group member’s contributions to the project.
-* The presentation describe the specific goal(s) for the project and the target market for the website/application. 
+* The presentation describe the specific goal(s) for the project.
    
