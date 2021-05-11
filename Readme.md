@@ -41,7 +41,8 @@ This project will have two parts:
 * (10 points) Conclusions
     - Summarizes important concepts of your analysis 
     - Report your conclusions drawing on the research you have conducted 
-    - Demonstrate critical thinking in analysis of outcomes (positive or negative it does not matter)
+    - Demonstrate critical thinking in analysis of outcomes (positive or negative it does not matter) e.g. good analysis of test vs training data and evaluation of model results. How good is the model? Do your models extrapolate/generalize well to new data?
+    - Did your model overtrain? Undertrain?
 
 * (10 points) Organization Clarity and PowerPoint Presentation
     - Explain the analysis in R or Python
@@ -62,3 +63,10 @@ The purpose of project presentation is to evaluate the effectiveness of the fina
 * The presentation describe each group member’s contributions to the project.
 * The presentation describe the specific goal(s) for the project.
    
+***************************************************************
+### What to Turn In
+***************************************************************
+* All analysis scripts pushed to this group folder.
+* Readme.md with instructions on how to get the data OR who to request data from.
+* You could include the data if its not huge (over a 8 megabytes)
+* The presentation PDFs or PowerPoint
